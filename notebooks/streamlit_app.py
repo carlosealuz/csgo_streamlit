@@ -165,7 +165,7 @@ def return_markdown_comp_hist(df, df_full, col):
 st.title('Análise jogos CS:GO')
 
 # Load players dataframe.
-players_data = pd.read_csv(cwd+'/data_scrapped.csv')
+players_data = pd.read_csv(cwd+'/notebooks/data_scrapped.csv')
 players_data.drop('Unnamed: 0', axis=1, inplace=True)
 players_data['GAME_DATE'] = pd.to_datetime(players_data['GAME_DATE'], format='%d/%m/%Y %H:%M')
 players_data['MONTH_YR'] = players_data['GAME_DATE'].dt.strftime('%m/%Y')
@@ -179,7 +179,7 @@ dates = [min(dates), max(dates)]
 
 
 # Load games dataframe
-team_data = pd.read_csv(cwd+'/games_clean.csv')
+team_data = pd.read_csv(cwd+'/notebooks/games_clean.csv')
 team_data.drop('Unnamed: 0', axis=1, inplace=True)
 team_data['GAME_DATE'] = pd.to_datetime(team_data['GAME_DATE'], format='%d/%m/%Y %H:%M')
 team_data['MONTH_YR'] = team_data['GAME_DATE'].dt.strftime('%m/%Y')
