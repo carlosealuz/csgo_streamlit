@@ -1,0 +1,59 @@
+V	mrg		16x07	51.42%	12x03[1]		04x04[0]		14571474
+D	ifn		18x22	51.38%	08x07[1](2x2)	07x08[0](1x5)	14571923
+V	nuk		16x06	48.68%	09x06[1]		07x00[1]		14579558 * sem rebores
+V	mrg		16x10	52.5%	12x03[0]		04x07[0]		14612008
+V	ovp		16x14	54.58%	07x08[0]		09x06[1]		14614861
+D	mrg		14x16	49.71%	06x09[0]		08x07[0]		14615857
+V	nuk		16x12	48.12%	08x05[0]		08x07[1]		14624649
+V	ifn		16x14	51.21%	07x08[0]		09x06[1]		14625430
+V	ovp		16x05	52.80%	04x02[1]		12x03[1]		14626605
+D	ifn		11x16	50.81%	03X09[0]		08X07[0]		14644901
+D	mrg		02x16	53.42%	00x03[0]		02x13[0]		14645796
+V	ovp		16x09	51.11%	08x02[1]		08x07[1]		14646639
+D	ifn		04x16	54.22%	04x11[0]		00x05[0]		14738462
+V	ovp		16x12	50.52%	07x06[0]		09x06[0]		14739091
+V	mrg		16x13	54.44%	08X07[0]		08X06[1]		14740171
+D	ifn		22x25	50.30%	07x08[0]		08x06[0]		14799706
+D	mrg		10x16	55.81%	04x11[1]		06x05[1]		14801834
+V	mrg		16x07	50.2%0	03x05[0]		13x02[1]		14810518
+V	ifn		16x10	00.00%	07x08[0]		09x02[1]		14811255
+V	mrg		16x12	50.73%	07x06[P]		09x06[P]		14813151
+V	mrg		16x07	53.00%	05X03[0]		11X04[1]		14859844 * sem rebores
+V	nuk		16x13	47.95%	11x03[0]		05x10[0]		14860708 * sem rebores
+D	ifn		20x22	51.12%	10x05[1]		05x10[P]		14861734 * sem rebores
+
+res map		__x__	00.00%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/[id]
+
+
+[ANÁLISE ESTATÍSTICA DOS JOGOS DEZEMBRO 2021]
+
+Jogos: 23
+	Vitórias: 15	(68%)
+	Derrotas: 8		(32%)
+
+	maior sequencia vitórias: 5
+	maior sequencia derrotas: 2
+
+MAPAS
+
+	mirage	- 66% win rate
+		9 jogos
+		6 vitoria
+		3 derrota
+
+	inferno	- 28% win rate
+		7 jogos
+		2 vitorias
+		5 derrotas
+
+	nuke	- 100% win rate
+		3 jogos
+		3 vitorias
+		0 derrotas
+
+	over	- 100% win rate
+		4 jogos
+		4 vitorias
+		0 derrotas
+
+

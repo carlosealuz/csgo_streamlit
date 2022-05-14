@@ -1,0 +1,47 @@
+D	ifn		20x22	49.44%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15211698
+V	mrg		16x11	46.78%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15215189
+V	ifn		16x14	48.22%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15216163
+V	nuk		16x11	51.72%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15217398
+V	ovp		16x01	51.13%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15515055
+V	nuk		16x07	53.71%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15516123
+V	nuk		16x12	54.42%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15516873
+V	ifn		19x16	00.00%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15533968
+V	mrg		16x09	00.00%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15535067
+V	ovp		16x07	52.17%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15536106
+D	ovp		17x19	00.00%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15537164
+
+
+res map		__x__	00.00%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/[id]
+
+
+[ANÁLISE ESTATÍSTICA DOS JOGOS MARÇO 2022]
+
+Jogos: 11
+	Vitórias: 9 (81%)
+	Derrotas: 2 (19%)
+
+	maior sequencia vitórias: 9
+	maior sequencia derrotas: 1
+
+MAPAS
+
+	mirage	- 100% win rate
+		2 jogos
+		2 vitoria
+		0 derrota
+
+	inferno	- 0% win rate
+		3 jogos
+		2 vitorias
+		1 derrotas
+
+	nuke	- 100% win rate
+		3 jogos
+		3 vitorias
+		0 derrotas
+
+	over	- 100% win rate
+		3 jogos
+		2 vitorias
+		1 derrotas
+

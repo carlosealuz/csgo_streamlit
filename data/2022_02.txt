@@ -1,0 +1,69 @@
+V	ovp		22x18	47.58%	09x06[0](2x2)	06x09[0](5x1)	14884081
+D	mrg		14x16	51.21%	08x07[0]		06x09[0]		14885765
+D	nuk		14x16	50.81%	05x10[0]		09x06[1]		14887200
+D	ifn		11x16	47.89%	CT[P]			TR[P]			14908429
+D	mrg		12x16	47.33%	CT[P]			TR[P]			14909324
+V	ifn		16x12	54.46%	CT[P]			TR[P]			14910709
+V	nuk		16x12	49.94%	10x05[0]		06x07[0]		14945458
+V	ifn		16x11	48.83%	08x04[0]		08x07[0]		14946332
+V	mrg		16x11	46.95%	07x05[1]		09x06[1]		14947531
+V	ovp		16x12	51.89%	08x07[0]		08x05[1]		14968905
+D	ifn		14x16	48.35%	05x10[0]		09x06[1]		14970028
+V	nuk		16x14	55.70%	09x06[1]		07x08[0]		14971445
+D	nuk		12x16	51.84%	04x09[0]		08x07[1]		14992333
+D	ovp		11x16	53.02%	07x08[0]		03x08[1]		14993263
+V	nuk		16x10	00.00%	11x04[0]		05x06[0]		14994545
+D	ifn		14x16	00.00%	07x08[0]		07x08[0]		15025452
+V	mrg		16x10	00.00%	08x07[0]		08x03[1]		15026513
+D	mrg		09x16	56.33%	06x09[0]		03x07[0]		15027376
+V	ifn		16x14	00.00%	08x07[1]		08x07[1]		15028203
+D	ifn		06x16	00.00%	04x11[0]		02x05[0]		15047803
+D	mrg		04x16	00.00%	00x05[0]		04x11[1]		15048598
+V	mrg		16x10	55.91%	11x04[1]		05x06[0]		15049871
+V	nuk		16x06	52.16%	09x06[0]		07x00[1]		15059038
+D	ifn		13x16	00.00%	09x05[0]		04x11[0]		15059706
+D	ifn		12x16	00.00%	06x09[0]		06x07[1]		15060803
+D	ovp		10x16	00.00%	04x11[0]		06x05[1]		15067145
+V	nuk		16x08	00.00%	12x03[1]		04x05[0]		15068163
+V	mrg		16x13	00.00%	CT[P]			TR[P]			15069344
+D	ovp		07x16	47.58%	00x08[0]    	07x08[0]    	15176693
+D   ifn		12x16	00.00%	05x08[0]		07x08[1]		15177361
+D   ifn		19x22	54.64%	07x08[0]		07x08[0]		15189010
+D	mrg		16x19	00.00%	CT[P]			TR[P]			15190197
+V	ifn		16x08	00.00%	06x03[1]		10x05[1]		15191286
+
+
+res map		__x__	00.00%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/[id]
+
+
+[ANÁLISE ESTATÍSTICA DOS JOGOS FEVEREIRO 2022]
+
+Jogos: 33
+	Vitórias: 15 (50%)
+	Derrotas: 18 (50%)
+
+	maior sequencia vitórias: 5
+	maior sequencia derrotas: 4
+
+MAPAS
+
+	mirage	- 50% win rate
+		8 jogos
+		4 vitoria
+		4 derrota
+
+	inferno	- 33% win rate
+		11 jogos
+		3 vitorias
+		8 derrotas
+
+	nuke	- 72% win rate
+		7 jogos
+		5 vitorias
+		2 derrotas
+
+	over	- 50% win rate
+		5 jogos
+		2 vitorias
+		3 derrotas
+

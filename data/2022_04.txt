@@ -1,0 +1,52 @@
+V	ifn		16x05	49.72%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15578886
+V	ovp		16x12	48.89%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15579719
+V	mrg		16x08	51.40%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15580886
+D	ifn		13x16	48.26%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15646815
+D	ovp		11x16	55.52%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15648303
+V	ifn		19x17	48.81%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15729917
+D	mrg		00x16	47.1%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15730813
+D	nuk		02x16	48.24%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15731441
+V	ovp		16x09	54.4%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15732060
+D	d2		14x16	49.32%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15733088
+D	ifn		11x16	00.00%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15751280
+D	mrg		09x16	00.00%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15752075
+D	ifn		12x16	00.00%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15792684
+V	mrg		16x03	00.00%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15793463
+V	map		16x09	48.68%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15794550
+V	ifn		19x16	52.5%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/15820209
+
+
+res map		__x__	00.00%	CT[P]			TR[P]			https://gamersclub.com.br/lobby/match/[id]
+
+
+[ANÁLISE ESTATÍSTICA DOS JOGOS ABRIL 2022]
+
+Jogos: 16
+	Vitórias: 8 (50%)
+	Derrotas: 8 (50%)
+
+	maior sequencia vitórias: 0
+	maior sequencia derrotas: 0
+
+MAPAS
+
+	mirage	- 100% win rate
+		1 jogos
+		1 vitoria
+		0 derrota
+
+	inferno	- 0% win rate
+		1 jogos
+		1 vitorias
+		0 derrotas
+
+	nuke	- 100% win rate
+		0 jogos
+		0 vitorias
+		0 derrotas
+
+	over	- 100% win rate
+		1 jogos
+		1 vitorias
+		0 derrotas
+
